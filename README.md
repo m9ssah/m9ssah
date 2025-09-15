@@ -1,6 +1,6 @@
 # Hallo, it's Massah :D
 
-I'm a 2nd year student at the University of Toronto with a Computer Science Specialization.
+I'm a 2nd year student at the University of Toronto with a Computer Science Specialization + Data Science Minor
 
 ---
 
