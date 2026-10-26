@@ -5,9 +5,11 @@
 ### hallo, i'm massah :D
 
 
-pursuing CS @ UofT
+Pursuing CS @ UofT
 
-interested in autonomous driving, graphics & gpu programming  
+Incoming System Architect @ AMD
+
+Interested in autonomous driving, inference & graphics programming  
 
 ---
 
